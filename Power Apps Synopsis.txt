@@ -1,12 +1,10 @@
-
-
-
+This is the latest Power Apps Session Document.
 
 Power Apps sessions
 
 There are two sessions planned for Power Apps
-a) Today
-b) Next week 9 am IST
+a) This week
+b) Next week 8 am IST
 
 Agenda for Today
 
